@@ -1,6 +1,7 @@
 public abstract class Pokemon {
 
- /*instance variables*/
+    /*instance variables*/
+
  private String name;
  private int hp;
  private double height;
@@ -21,6 +22,7 @@ public abstract class Pokemon {
     }
 
     /*getters & setters*/
+
     public void setName(String name) {
         this.name = name;
     }
