@@ -21,7 +21,7 @@ public class Main {
         pikachu.height();
         pikachu.electroball();
         pikachu.hp();
-        pikachu.setHp(36);
+        pikachu.setHp(68);
         pikachu.hp();
         wartortle.total_stats();
         }
